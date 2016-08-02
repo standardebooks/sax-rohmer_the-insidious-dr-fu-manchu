@@ -52,10 +52,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sax_Rohmer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50020802</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Jean Barbault</dc:contributor>
-		<meta property="file-as" refines="#artist">Barbault, Jean</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean_Barbault</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr97018521</meta>
+		<dc:contributor id="artist">Alexandre Jacovleff</dc:contributor>
+		<meta property="file-as" refines="#artist">Jacovleff, Alexandre</meta>
+		<meta property="se:name.person.full-name" refines="#author">Alexandre Yevgenievich Jacovleff</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alexandre_Jacovleff</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n93084674</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Stewart A. Levin</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Levin, Stewart A.</meta>
