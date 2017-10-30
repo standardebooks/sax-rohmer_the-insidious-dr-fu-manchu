@@ -15,7 +15,6 @@ blockquote header{
 	margin-bottom: 1em;
 }
 
-
 p[epub|type~="z3998:salutation"] + p,
 blockquote header p{
 	text-indent: 0;
