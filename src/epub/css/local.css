@@ -16,7 +16,7 @@ p.signature{
 }
 
 .signature,
-blockquote header.express p{
+#chapter-10 blockquote:first-of-type header{
 	font-variant: small-caps;
 }
 
