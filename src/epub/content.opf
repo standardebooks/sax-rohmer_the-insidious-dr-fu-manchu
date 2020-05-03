@@ -45,8 +45,8 @@
 		<meta property="term" refines="#subject-2">sh2008121308</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2009121991</meta>
-		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Insidious Dr. Fu-Manchu&lt;/i&gt;, first published in the UK as &lt;i&gt;The Mystery of Dr. Fu-Manchu&lt;/i&gt;, is the first novel to introduce the inimitable Fu-Manchu, famous not just for his moustache, but for being a nigh-unstoppable criminal mastermind and part of the “Yellow Peril.” This novel is a collection of previously-published short stories, slightly re-written by Rohmer to form a cohesive whole.&lt;/p&gt;
