@@ -11,11 +11,11 @@ blockquote header p{
 	text-indent: 0;
 }
 
-p[epub:type~="z3998:signature"]{
+p[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
-[epub:type~="z3998:signature"],
+[epub|type~="z3998:signature"],
 #chapter-10 blockquote:first-of-type header{
 	font-variant: small-caps;
 }
