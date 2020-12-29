@@ -3,7 +3,7 @@
 
 blockquote header{
 	margin-bottom: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 p[epub|type~="z3998:salutation"] + p,
@@ -21,7 +21,7 @@ p[epub|type~="z3998:signature"]{
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
