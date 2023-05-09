@@ -35,6 +35,7 @@
 		<dc:title id="fulltitle">The Insidious Dr. Fu-Manchu</dc:title>
 		<meta property="file-as" refines="#fulltitle">Insidious Dr. Fu-Manchu, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="dcterms:alternative" refines="#title">The Mystery of Dr. Fu-Manchu</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Fu Manchu, Doctor (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Criminals -- Fiction</dc:subject>
