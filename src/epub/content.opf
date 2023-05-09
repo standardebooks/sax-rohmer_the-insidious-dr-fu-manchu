@@ -46,6 +46,9 @@
 		<meta property="term" refines="#subject-3">sh2009121991</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Fu-Manchu</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Insidious &lt;abbr&gt;Dr.&lt;/abbr&gt; Fu-Manchu&lt;/i&gt;, first published in the UK as &lt;i&gt;The Mystery of &lt;abbr&gt;Dr.&lt;/abbr&gt; Fu-Manchu&lt;/i&gt;, is the first novel to introduce the inimitable Fu-Manchu, famous not just for his moustache, but for being a nigh-unstoppable criminal mastermind and part of the “Yellow Peril.” This novel is a collection of previously-published short stories, slightly re-written by &lt;a href="https://standardebooks.org/ebooks/sax-rohmer"&gt;Rohmer&lt;/a&gt; to form a cohesive whole.&lt;/p&gt;
