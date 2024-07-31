@@ -62,7 +62,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/173</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012192994</dc:source>
-		<meta property="se:word-count">74007</meta>
+		<meta property="se:word-count">74008</meta>
 		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Dr._Fu-Manchu</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sax-rohmer_the-insidious-dr-fu-manchu</meta>
