@@ -67,7 +67,7 @@
 		<meta property="schema:wordCount">73405</meta>
 		<meta property="schema:educationalLevel">73.88</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Mystery_of_Dr._Fu-Manchu" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/sax-rohmer_the-insidious-dr-fu-manchu" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Sax Rohmer</dc:creator>
