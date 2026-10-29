@@ -72,12 +72,13 @@
 		<link href="https://github.com/standardebooks/sax-rohmer_the-insidious-dr-fu-manchu" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Sax Rohmer</dc:creator>
 		<meta property="file-as" refines="#author">Rohmer, Sax</meta>
+		<meta property="schema:alternateName" refines="#author">Arthur Henry Ward</meta>
 		<link href="https://en.wikipedia.org/wiki/Sax_Rohmer" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50020802.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Alexandre Jacovleff</dc:contributor>
 		<meta property="file-as" refines="#artist">Jacovleff, Alexandre</meta>
-		<meta property="schema:alternateName" refines="#author">Alexandre Yevgenievich Jacovleff</meta>
+		<meta property="schema:alternateName" refines="#artist">Alexandre Yevgenievich Jacovleff</meta>
 		<link href="https://en.wikipedia.org/wiki/Alexandre_Jacovleff" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n93084674.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
